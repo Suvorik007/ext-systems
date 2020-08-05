@@ -1,7 +1,7 @@
 target
 out
 .idea/
-city-register.iml
-.iml
+*.iml
+
 
 .DS_Store
